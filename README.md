@@ -47,9 +47,7 @@ SmartHire AI is an industry-grade recruitment intelligence platform that automat
    ```bash
    docker-compose up --build
    ```
-4. Access the apps:
-   - **Frontend:** [http://localhost:5173](http://localhost:5173)
-   - **API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)
+4. Access the apps once the services are running.
 
 ---
 
@@ -68,4 +66,3 @@ SmartHire AI is an industry-grade recruitment intelligence platform that automat
 - **Modern:** Premium UI/UX with glassmorphism and micro-animations.
 
 ---
-Built with ❤️ by MatchIQ Intelligence Team.
