@@ -1,0 +1,34 @@
+Candidate A: Near Perfect Match (91/100)
+Name: Alice Johnson
+Email: alice.j@example.com
+Summary: MSc in Data Science from MIT. Experit in Python, Machine Learning, and SQL. Pro at Scikit-learn, Pandas, and Data Visualization.
+Skills: Python, Machine Learning, Scikit-learn, SQL, Pandas, NumPy, Data Visualization, Communication, Problem Solving.
+Experience: Previous internships at Tesla and NVIDIA. Applied regression and classification to time-series data. Solid SQL joins and optimization results.
+---
+Candidate B: Missing ML Depth (74/100)
+Name: Bob Smith
+Email: bob.s@example.com
+Summary: Software Engineer moving into Data Science. Strong Python and SQL skills. Familiar with Pandas and Data Visualization.
+Skills: Python, SQL, Pandas, NumPy, Data Visualization, Communication, Problem Solving.
+Experience: Developed backend APIs using Python and Postgres (SQL). Uses Pandas for reporting. Basic understanding of ML concepts like regression.
+---
+Candidate C: Missing SQL + Viz (58/100)
+Name: Charlie Davis
+Email: charlie.d@example.com
+Summary: Data Analyst focused on ML modeling. Strong Python and Scikit-learn. Lacks complex SQL and visualization dashboard experience.
+Skills: Python, Machine Learning, Scikit-learn, Pandas, NumPy, Problem Solving.
+Experience: Academic projects using Scikit-Learn for image classification. Expert at Python scripting. Limited experience with SQL and visualization tools like Matplotlib.
+---
+Candidate D: Frontend Focused (42/100)
+Name: Diana Prince
+Email: diana.p@example.com
+Summary: Frontend Developer with some Python interest. Master at React and Tailwind. Basic Python, no ML or SQL experience.
+Skills: Python, React, Tailwind, Communication, Problem Solving.
+Experience: Built 10+ frontend dashboards. Moderate knowledge of Python for scripting. Highly communicative and good at problem-solving in UI/UX.
+---
+Candidate E: Unrelated Background (29/100)
+Name: Ethan Hunt
+Email: ethan.h@example.com
+Summary: Professional Chef with interest in tech. Strong Communication and Problem Solving in kitchen management.
+Skills: Communication, Problem Solving, MS Office.
+Experience: Managed luxury restaurant for 5 years. Solved logistical issues in high-pressure environments. No technical experience in Python, ML, or SQL.

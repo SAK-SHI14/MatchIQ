@@ -1,0 +1,20 @@
+Data Science / ML Engineer Intern
+
+Job Summary:
+We are looking for a Data Science / ML Engineer Intern to join our AI Research group. You will work on building scalable machine learning pipelines, performing data analysis, and deploying models to production.
+
+Required Skills:
+- Python (Expert)
+- Pandas and NumPy (Proficient)
+- Scikit-learn (Solid understanding)
+- SQL (Joins, aggregations, performance)
+- Machine Learning (Regression, Classification, NLP)
+- Data Visualization (Matplotlib, Seaborn)
+- Communication (Ability to present insights)
+- Problem Solving (Algorithmic thinking)
+
+Responsibilities:
+- Cleanup and preprocess large datasets for model training.
+- Evaluate model performance and optimize hyperparameters.
+- Translate business requirements into technical ML objectives.
+- Collaborate with the software team for REST API integration.
